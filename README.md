@@ -3,8 +3,6 @@
 
 Imagix is a full-stack AI SaaS application built using the MERN stack (MongoDB, Express, React, Node.js). It enables users to generate high-quality AI images from text prompts using the ClipDrop API. Imagix includes a secure authentication system, a credit-based image generation model, and a payment gateway that allows users to purchase additional credits directly within the platform.
 
----
-
 ## Features
 
 - **AI Text-to-Image Generation:** Uses the ClipDrop API to convert text prompts into realistic images.
@@ -14,8 +12,6 @@ Imagix is a full-stack AI SaaS application built using the MERN stack (MongoDB, 
 - **Responsive UI:** Fully responsive frontend built with React and Tailwind CSS.
 - **Notifications:** Real-time feedback using toast notifications.
 - **Database Management:** MongoDB for storing user details, credits, and image history.
-
----
 
 ## Technology Stack
 
