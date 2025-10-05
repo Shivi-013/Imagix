@@ -5,14 +5,6 @@ Imagix is a full-stack AI SaaS application built using the MERN stack (MongoDB, 
 
 ---
 
-## Overview
-
-Imagix allows users to turn their imagination into visuals. Each user can register, log in, and generate AI-generated images using their available credits. Every image generation consumes one credit. When credits run out, users can securely purchase more through the integrated payment gateway.
-
-This project demonstrates the implementation of a scalable AI SaaS model with an interactive frontend, robust backend, and real-time payment integration.
-
----
-
 ## Features
 
 - **AI Text-to-Image Generation:** Uses the ClipDrop API to convert text prompts into realistic images.
@@ -183,7 +175,7 @@ This project is licensed under the MIT License. You are free to use, modify, and
 ---
 
 ## Author
-(https://github.com/Shivi-013)
+https://github.com/Shivi-013
 
 
 
