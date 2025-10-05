@@ -22,8 +22,6 @@ Imagix is a full-stack AI SaaS application built using the MERN stack (MongoDB, 
 **Payment Gateway:** Stripe / Razorpay  
 **Notifications:** React-Toastify
 
----
-
 ## Folder Structure
 
 ```
@@ -54,7 +52,7 @@ imagix/
 
 ````
 
----
+
 
 ## Installation and Setup
 
@@ -130,7 +128,6 @@ The application will run locally on:
 * Frontend: [http://localhost:3000](http://localhost:3000)
 * Backend: [http://localhost:5000](http://localhost:5000)
 
----
 
 ## Usage
 
@@ -140,15 +137,11 @@ The application will run locally on:
 4. If credits are insufficient, purchase more through the integrated payment option.
 5. View previously generated images in your dashboard.
 
----
-
 ## API Integration
 
 **AI Image Generation:**
 Imagix uses the ClipDrop API for generating AI-based images from text inputs.
 Refer to [ClipDrop API documentation](https://clipdrop.co/apis) for more information.
-
----
 
 ## Payment System
 
@@ -156,19 +149,11 @@ Imagix supports credit purchase through an online payment gateway.
 Each successful transaction updates the user’s credit balance in MongoDB in real-time.
 All sensitive payment and authentication data are handled securely through environment variables.
 
----
-
-## Screenshots
-
-
-
----
 
 ## License
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute it with attribution.
 
----
 
 ## Author
 https://github.com/Shivi-013
