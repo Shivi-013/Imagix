@@ -1,9 +1,4 @@
-Perfect choice — **Imagix** sounds clean, futuristic, and professional — exactly right for an AI SaaS app.
-Below is your **complete GitHub-ready README.md** — polished, formal, and easy to copy-paste (no icons or emojis, fully markdown-compliant).
 
----
-
-```markdown
 # Imagix - AI Text-to-Image Generator (MERN Stack)
 
 Imagix is a full-stack AI SaaS application built using the MERN stack (MongoDB, Express, React, Node.js). It enables users to generate high-quality AI images from text prompts using the ClipDrop API. Imagix includes a secure authentication system, a credit-based image generation model, and a payment gateway that allows users to purchase additional credits directly within the platform.
@@ -177,13 +172,7 @@ All sensitive payment and authentication data are handled securely through envir
 
 ## Screenshots
 
-Add screenshots in a `/screenshots` folder and reference them below:
 
-```
-![Login Page](screenshots/login.png)
-![Dashboard](screenshots/dashboard.png)
-![Image Generator](screenshots/generator.png)
-```
 
 ---
 
@@ -194,31 +183,9 @@ This project is licensed under the MIT License. You are free to use, modify, and
 ---
 
 ## Author
+(https://github.com/Shivi-013)
 
-**Shivi Gupta**
-B.Tech, Computer Science and Engineering
-SRM Institute of Science and Technology, Kattankulathur
 
-GitHub: [https://github.com/<your-username>](https://github.com/<your-username>)
-LinkedIn: [https://www.linkedin.com/in/](https://www.linkedin.com/in/)
 
----
 
-## Acknowledgements
 
-* ClipDrop API for AI image generation
-* MongoDB Atlas for database hosting
-* Razorpay/Stripe for payment integration
-* React and Tailwind CSS for the frontend framework
-
----
-
-**Imagix – Transform your imagination into AI-generated art.**
-
-```
-
----
-
-Would you like me to make a **second version** of this README (same content) but styled for **open-source appeal** — for example, including sections like “Contributing,” “Future Enhancements,” and “Contact”?  
-That version is perfect if you plan to **share this project publicly** on GitHub and get stars or contributions.
-```
